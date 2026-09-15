@@ -1,0 +1,25 @@
+{
+  "name": "automacao-typescript-apontiacademy",
+  "version": "1.0.0",
+  "description": "repositorio focado na realizacao de atividades voltadas a typescript na parte de automacao de testes",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/wkelison22/automacao-typescript-apontiacademy.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/wkelison22/automacao-typescript-apontiacademy/issues"
+  },
+  "homepage": "https://github.com/wkelison22/automacao-typescript-apontiacademy#readme",
+  "devDependencies": {
+    "tsx": "^4.23.13",
+    "typescript": "^7.0.2"
+  }
+}
