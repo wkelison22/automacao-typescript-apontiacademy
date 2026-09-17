@@ -20,6 +20,7 @@
   "homepage": "https://github.com/wkelison22/automacao-typescript-apontiacademy#readme",
   "devDependencies": {
     "tsx": "^4.23.13",
-    "typescript": "^7.0.2"
+    "typescript": "^7.0.2",
+    "vitest": "^5.0.1"
   }
 }
